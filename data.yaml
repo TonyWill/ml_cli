@@ -1,0 +1,4 @@
+train: ml_training/shop_bubbles
+val: ml_training/shop_bubbles
+nc: 1
+names: [speech_bubbles]
